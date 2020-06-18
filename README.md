@@ -6,9 +6,9 @@ A simple calendar application that allows the user to save events for each hour 
 
 ## Table of Contents
 
-* [Usage](#usage)
-* [Dynamic Updates](#dynamic-updates)
-* [License](#license)
+- [Usage](#usage)
+- [Dynamic Updates](#dynamic-updates)
+- [License](#license)
 
 ## Usage
 
@@ -32,11 +32,11 @@ To **remove** an event...
 
 The page will update the following items each time it is loaded.
 
-* Today's date at the top of the page
-* Text area formats according to the current time.
-    * Previous hour(s) will be gray. ![gray](https://www.htmlcsscolor.com/preview/icon/D3D3D3.png)
-    * The current hour will be red. ![red](https://www.htmlcsscolor.com/preview/icon/FF6961.png)
-    * Upcoming hour(s) will be green. ![green](https://www.htmlcsscolor.com/preview/icon/77DD77.png)
+- Today's date at the top of the page
+- Text area formats according to the current time.
+  - Previous hour(s) will be gray. ![gray](https://www.htmlcsscolor.com/preview/icon/D3D3D3.png)
+  - The current hour will be red. ![red](https://www.htmlcsscolor.com/preview/icon/FF6961.png)
+  - Upcoming hour(s) will be green. ![green](https://www.htmlcsscolor.com/preview/icon/77DD77.png)
 
 [back to top](#workday)
 
