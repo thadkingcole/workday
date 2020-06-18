@@ -32,7 +32,7 @@ To **remove** an event...
 
 The page will update the following items each time it is loaded.
 
-- Today's date at the top of the page
+- Today's date at the top of the page.
 - Text area formats according to the current time.
   - Previous hour(s) will be gray. ![gray](https://www.htmlcsscolor.com/preview/icon/D3D3D3.png)
   - The current hour will be red. ![red](https://www.htmlcsscolor.com/preview/icon/FF6961.png)
