@@ -1,5 +1,7 @@
 # [Workday](https://thadkingcole.github.io/workday)
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/3d6d9f62462e4f81b7bfb9329aea744e)](https://app.codacy.com/manual/thadkingcole/workday?utm_source=github.com&utm_medium=referral&utm_content=thadkingcole/workday&utm_campaign=Badge_Grade_Dashboard)
+
 A simple calendar application that allows the user to save events for each hour of the day. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
 
 ![screenshot](./screenshots/main.png)
